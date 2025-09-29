@@ -1,0 +1,3 @@
+Request: {"method":"GET","path":{"Value":"/api/v1/appointments","HasValue":true},"dateTime":"2025-08-09T13:55:44.6966688+05:30"}
+Response: {"status":200}Request: {"method":"GET","path":{"Value":"/api/v1/appointments","HasValue":true},"dateTime":"2025-08-09T13:56:47.9194208+05:30"}
+Response: {"status":200}Request: {"method":"GET","path":{"Value":"/api/v1/appointments","HasValue":true},"dateTime":"2025-08-09T13:59:46.861236+05:30"}Response: {"status":200}
